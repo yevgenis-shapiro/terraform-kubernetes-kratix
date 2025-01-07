@@ -1,4 +1,5 @@
-![Untitled](https://github.com/user-attachments/assets/afba794c-ebca-4f1e-974b-8d47b2494c9c)
+![image](https://github.com/user-attachments/assets/724ba1ea-3687-4f30-893b-51dc58d9d2e0)
+
 
 
 ## Terraform Module - Kratix | 🚀🚀🚀 
