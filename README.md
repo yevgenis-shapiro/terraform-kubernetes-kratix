@@ -22,4 +22,5 @@ Kubernetes is a platform for building platforms and has become the ubiquitous in
 ```
 ✅Terraform
 ```
-![k+terraform_arch-8dd85e61d8613ea64e49a8791a8ac92f](https://github.com/user-attachments/assets/302648ac-8eaa-4566-9e4a-c8be4cc3e1eb)
+![Kratix](https://github.com/user-attachments/assets/5bb953fc-b071-427d-8081-d186f3073863)
+
