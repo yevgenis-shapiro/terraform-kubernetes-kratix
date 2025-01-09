@@ -21,8 +21,5 @@ Kubernetes is a platform for building platforms and has become the ubiquitous in
 🔨 How Kratix Complements :
 ```
 ✅Terraform
-![k+terraform_arch-8dd85e61d8613ea64e49a8791a8ac92f](https://github.com/user-attachments/assets/302648ac-8eaa-4566-9e4a-c8be4cc3e1eb)
-✅Crossplane
-![k+crossplane_arch-30d69051d4ae9dbd196b58d62e3f4484](https://github.com/user-attachments/assets/735df471-e8ca-4544-ad42-e93abce66ab8)
-✅Backstage
 ```
+![k+terraform_arch-8dd85e61d8613ea64e49a8791a8ac92f](https://github.com/user-attachments/assets/302648ac-8eaa-4566-9e4a-c8be4cc3e1eb)
