@@ -5,7 +5,7 @@ Kratix is an open-source framework that enables platform engineers to build flex
 
 
 
-🎯 Key Features of Kratix
+## Key Features of Kratix
 ```
 Profile:
 Platform engineers can reduce complexity and increase developer productivity by providing the right abstraction levels, defined as “Promises”. A promise can encode any capability such as CI as-a-service, data services, or a full development environment, and can be offered on demand, at scale, across an organization.
