@@ -2,7 +2,9 @@
 
 ## Terraform Module - Kratix | 🚀🚀🚀 
 Kratix is an open-source framework that enables platform engineers to build flexible and curated internal platforms. It provides a clear contract between application and platform teams through the definition and creation of paved path abstractions defined as “Promises”. Using the GitOps workflow and Kubernetes-native constructs, Kratix empowers platform teams to offer the self-service capabilities that developers need whilst also keeping the platform up-to-date and secured.
+
 Kratix enables platform teams to create Promises. Promises define an API for their users (application engineers) to easily request on-demand Resources. Promises also define any steps required to fulfil and maintain the Resources including running Terraform or other IaC tools, validating business rules, and any additional steps like releasing software that runs on the provisioned Terraform infrastructure.
+
 
 🎯 Key Features of Kratix
 ```
