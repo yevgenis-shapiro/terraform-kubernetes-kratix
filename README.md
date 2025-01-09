@@ -18,10 +18,10 @@ Kubernetes is a platform for building platforms and has become the ubiquitous in
 
 
 
-🔨 How Kratix Complements :
+## How Kratix Complements :
 ```
-✅Terraform
-✅Crossplane
+✅ Terraform
+✅ Crossplane
 ```
 ![image](https://github.com/user-attachments/assets/6ed3ad39-6d24-49a4-96bd-16014e791ce5)
 
