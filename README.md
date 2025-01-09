@@ -7,20 +7,22 @@ Kratix is an open-source framework that enables platform engineers to build flex
 
 🎯 Key Features of Kratix
 ```
-✅ Profile:
+Profile:
 Platform engineers can reduce complexity and increase developer productivity by providing the right abstraction levels, defined as “Promises”. A promise can encode any capability such as CI as-a-service, data services, or a full development environment, and can be offered on demand, at scale, across an organization.
 
-✅ Focus:
+Focus:
 Kratix focuses on the platform engineer experience of building better platforms, unlike other frameworks and platforms which focus exclusively on application-developer experience. By using Kubernetes as the building block, Kratix encompasses the power and flexibility of raw Kubernetes and enables platform teams to curate an API-driven, bespoke platform that meets specific organizational needs and can evolve as those needs change.
 
-✅ Background:
+Background:
 Kubernetes is a platform for building platforms and has become the ubiquitous infrastructure abstraction layer. Whilst there has been an increase in managed Kubernetes distributions and “off-the-shelf” developer platforms, Kratix has been developed to make it easier for platform engineers to build their own curated platforms on top of Kubernetes.
 
 ```
 
 🔨 How Kratix Complements :
 ```
-Terraform
-Crossplane
-Backstage
+✅Terraform
+![k+terraform_arch-8dd85e61d8613ea64e49a8791a8ac92f](https://github.com/user-attachments/assets/302648ac-8eaa-4566-9e4a-c8be4cc3e1eb)
+✅Crossplane
+![k+crossplane_arch-30d69051d4ae9dbd196b58d62e3f4484](https://github.com/user-attachments/assets/735df471-e8ca-4544-ad42-e93abce66ab8)
+✅Backstage
 ```
